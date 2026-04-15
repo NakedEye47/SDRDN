@@ -286,25 +286,13 @@ python -m pytest tests/base_station/test_api.py -v
 - Windows PC / Laptop
 - RFM95W LoRa Gateway Module
 
-> 📄 See [docs/hardware_setup.md](docs/hardware_setup.md) for detailed wiring diagrams and setup instructions.
-
----
-
-## 📖 Documentation
-
-| Document | Description |
-|----------|-------------|
-| [Architecture](docs/architecture.md) | System design and data flow |
-| [Hardware Setup](docs/hardware_setup.md) | Wiring diagrams and component setup |
-| [Software Setup](docs/software_setup.md) | Installation guide |
-| [Deployment](docs/deployment.md) | Field deployment instructions |
-| [Installation Guide](SDRDN_Installation_Guide.txt) | Complete step-by-step guide |
+> 📄 Contact me for detailed wiring diagrams and setup instructions.
 
 ---
 
 ## 🤝 Contributing
 
-This is a capstone research project. For inquiries about collaboration or the local government proposal, please contact the developer.
+For inquiries about collaboration or the local government proposal, please contact the me.
 
 ---
 
