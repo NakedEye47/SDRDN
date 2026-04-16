@@ -40,7 +40,7 @@ SDRDN is an autonomous multi-drone system designed for disaster response operati
 
 **Status:** In Progress — Local Government Proposal Project Proposal  
 **Developer:** Alexander E. Sugian  
-**Academic Year:** 2025–2026
+**Year:** 2025–2026
 
 ---
 
